@@ -9,3 +9,5 @@ Next step was to add the encryption keys to the hosts file
 After that I signed in to elasticsearch and the security alerts tab was up and running!
 
 ![alt text](https://i.imgur.com/XnBU7WP.png)
+
+Next I'll be spinning up a windows server edition -- 
